@@ -1,0 +1,194 @@
+body, html{
+  height: 100%;
+    margin: 0;
+    background-color:black;
+    color:white;
+}
+
+x
+
+.logo{
+  width:124 px;
+  height:82.54 px;
+}
+
+
+.menu-icon{
+  display:none;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+.header-left{
+  float:left;
+}
+
+.header-right{
+  float:right;
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.intro{
+  float:right;
+}
+
+.hd{
+  font-size:96px;
+  text-align:center;
+  margin:0px;
+  color:aquamarine; 
+  padding-top:100px;
+}
+
+.bgd1{
+  
+    position: relative;
+    background-image:url(https://getwallpapers.com/wallpaper/full/a/1/0/541192.jpg);
+    width:100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 400px;
+    opacity:0.85;
+
+}
+ .header {
+    
+    height:46px;
+ }
+
+ .header logo{
+  height:46px;
+ }
+
+span.menu-icon{
+  display:none;
+}
+.Description h1{
+  text-align:center;
+   
+}
+
+.Academics p{
+  float:right;
+}
+
+.Academics img{
+  float:left;
+}
+
+
+.lang{
+  display: block;
+  color:#ddd;
+  background-color:#282E34;
+  text-align:center;
+  padding:50px 80px;
+  text-align: justify;
+}
+
+
+.lang p{
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+}
+
+.html {
+  width: 70%;
+  background-color: #4CAF50;
+  font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+.css{
+  width:70%;
+  background-color: rgb(0, 195, 255);
+  font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+.java{
+  width:75%;
+  background-color:red;
+  font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+.c{
+  width:85%;
+  background-color:rgb(255, 217, 0);
+  font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+.hobbies{
+  display:block;
+  
+}
+.hobbies h2{
+  text-align:center ;
+}
+
+.hb{
+  text-align:center;
+}
+
+.reading img{
+ padding-left:290px; 
+}
+
+.music img{
+  padding-left: 400px;
+}
+
+.cycling img{
+  padding-left: 270px;
+}
+
+.travel img{
+  padding-left: 150px;
+}
+
+.project{
+  display:block;
+  padding-top:30px;
+  text-align: center;
+  padding-left:0px;
+}  
+
+.fa{
+  padding-left:20px;
+}
+
+bgd5 h2{
+  padding-left:20px;  
+}
+.fa-linkedin{
+  color:blue;
+}
+
+.fa-github{
+  color:white;
+}
