@@ -44,6 +44,11 @@ header {
 
 .intro{
   float:right;
+  padding-right:500px;
+}
+
+.intro h3{
+  font-size:40px;
 }
 
 .hd{
